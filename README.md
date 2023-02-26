@@ -21,7 +21,7 @@ Atualmente estou cursando meu último ano em Analise e Desenvolvimento de Sistem
 
 Tenho bom domínio em:<br>
 -HTML<br>
--CSS
+-CSS<br>
 -Javascript<br>
 
 No momento estou estudando:<br>
