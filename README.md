@@ -23,10 +23,10 @@ Tenho bom domínio em:<br>
 -HTML<br>
 -CSS<br>
 -Javascript<br>
+-Git<br>
 
 No momento estou estudando:<br>
 -React<br>
--Git<br>
 
 Também tenho inglês de nível intermediário e melhorando a cada dia.
 
