@@ -16,6 +16,10 @@
 <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+<img align="center" alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+<img align="center" alt="less" src="https://img.shields.io/badge/Less-1D365D?style=for-the-badge&logo=less&logoColor=white">
+<img align="center" alt="gulp" src="https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white">
 </div><br>
 
 Atualmente estou cursando meu último ano em Analise e Desenvolvimento de Sistemas pela Unopar. Também estou fazendo alguns cursos para me especializar no Front-End aonde planejo seguir carreira, estou em busca de novos desafios e tecnologias que agreguem em meu conhecimento e aperfeiçoamento para meu desenvolvimento como profissional da área.
