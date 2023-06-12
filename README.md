@@ -36,7 +36,6 @@ Minhas habilidades incluem:
 - React<br>
 - Gulp (automação de tarefas)<br>
 - Git e GitHub<br>
-
 - Inglês: Intermediário<br>
 
 Busco constantemente atualizar meu conhecimento e acompanhar as tendências mais recentes no campo da programação. Sou apaixonado por resolver problemas complexos e criar soluções inovadoras.<br>
