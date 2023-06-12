@@ -21,6 +21,16 @@
 <img align="center" alt="less" src="https://img.shields.io/badge/Less-1D365D?style=for-the-badge&logo=less&logoColor=white">
 <img align="center" alt="gulp" src="https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white">
 <img align="center" alt="jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+  <img align="center" alt="ajax" src="https://img.shields.io/badge/AJAX-000000?style=for-the-badge&logo=ajax&logoColor=white">
+
+<img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+
+<img align="center" alt="vue" src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
+
+<img align="center" alt="redux" src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
+
+<img align="center" alt="cypress" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white">
+
 
 </div><br>
 
