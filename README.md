@@ -26,14 +26,14 @@ Olá!😊 Me chamo Cleiton Lahm e sou um programador apaixonado pelo desenvolvim
 
 Minhas habilidades incluem:
 
--HTML<br>
--CSS<br>
--Sass<br>
--Bootstrap<br>
--jQuery<br>
--React<br>
--Gulp (automação de tarefas)<br>
--Git e GitHub<br>
+- HTML<br>
+- CSS<br>
+- Sass<br>
+- Bootstrap<br>
+- jQuery<br>
+- React<br>
+- Gulp (automação de tarefas)<br>
+- Git e GitHub<br>
 
 Inglês: Intermediário<br>
 
