@@ -22,16 +22,26 @@
 <img align="center" alt="gulp" src="https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white">
 </div><br>
 
-Atualmente estou cursando meu último ano em Analise e Desenvolvimento de Sistemas pela Unopar. Também estou fazendo alguns cursos para me especializar no Front-End aonde planejo seguir carreira, estou em busca de novos desafios e tecnologias que agreguem em meu conhecimento e aperfeiçoamento para meu desenvolvimento como profissional da área.
+Olá!😊 Me chamo Cleiton Lahm e sou um programador apaixonado pelo desenvolvimento de sistemas e atualmente estou cursando Análise e Desenvolvimento de Sistemas. Além disso, estou aprimorando minhas habilidades em Front-End através de alguns cursos específicos.
 
-Tenho bom domínio em:<br>
--HTML<br>
--CSS<br>
--Javascript<br>
--Git<br>
+Minhas habilidades incluem:
 
-No momento estou estudando:<br>
--React<br>
+HTML
+CSS
+Sass
+Bootstrap
+jQuery
+React
+Gulp (automação de tarefas)
+Git e GitHub
 
-Também tenho inglês de nível intermediário e melhorando a cada dia.
+Inglês: Intermediário
+
+Busco constantemente atualizar meu conhecimento e acompanhar as tendências mais recentes no campo da programação. Sou apaixonado por resolver problemas complexos e criar soluções inovadoras.
+
+Estou em busca de oportunidades desafiadoras onde possa aplicar meu conhecimento técnico e colaborar em projetos de sucesso. Se você procura um programador dedicado, comprometido com a excelência e sempre disposto a aprender, estou pronto para contribuir com sua equipe.
+
+Contate-me para discutirmos como posso agregar valor ao seu negócio através do meu conhecimento e experiência em desenvolvimento de sistemas.
+
+Estou ansioso para fazer parte de sua equipe e enfrentar novos desafios emocionantes.
 
