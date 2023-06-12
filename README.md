@@ -26,22 +26,22 @@ Olá!😊 Me chamo Cleiton Lahm e sou um programador apaixonado pelo desenvolvim
 
 Minhas habilidades incluem:
 
-HTML
-CSS
-Sass
-Bootstrap
-jQuery
-React
-Gulp (automação de tarefas)
-Git e GitHub
+HTML<br>
+CSS<br>
+Sass<br>
+Bootstrap<br>
+jQuery<br>
+React<br>
+Gulp (automação de tarefas)<br>
+Git e GitHub<br>
 
-Inglês: Intermediário
+Inglês: Intermediário<br>
 
-Busco constantemente atualizar meu conhecimento e acompanhar as tendências mais recentes no campo da programação. Sou apaixonado por resolver problemas complexos e criar soluções inovadoras.
+Busco constantemente atualizar meu conhecimento e acompanhar as tendências mais recentes no campo da programação. Sou apaixonado por resolver problemas complexos e criar soluções inovadoras.<br>
 
-Estou em busca de oportunidades desafiadoras onde possa aplicar meu conhecimento técnico e colaborar em projetos de sucesso. Se você procura um programador dedicado, comprometido com a excelência e sempre disposto a aprender, estou pronto para contribuir com sua equipe.
+Estou em busca de oportunidades desafiadoras onde possa aplicar meu conhecimento técnico e colaborar em projetos de sucesso. Se você procura um programador dedicado, comprometido com a excelência e sempre disposto a aprender, estou pronto para contribuir com sua equipe.<br>
 
-Contate-me para discutirmos como posso agregar valor ao seu negócio através do meu conhecimento e experiência em desenvolvimento de sistemas.
+Contate-me para discutirmos como posso agregar valor ao seu negócio através do meu conhecimento e experiência em desenvolvimento de sistemas.<br>
 
 Estou ansioso para fazer parte de sua equipe e enfrentar novos desafios emocionantes.
 
