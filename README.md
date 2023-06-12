@@ -20,6 +20,8 @@
 <img align="center" alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
 <img align="center" alt="less" src="https://img.shields.io/badge/Less-1D365D?style=for-the-badge&logo=less&logoColor=white">
 <img align="center" alt="gulp" src="https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white">
+<img align="center" alt="jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+
 </div><br>
 
 Olá!😊 Me chamo Cleiton Lahm e sou um programador apaixonado pelo desenvolvimento de sistemas e atualmente estou cursando Análise e Desenvolvimento de Sistemas. Além disso, estou aprimorando minhas habilidades em Front-End através de alguns cursos específicos.
