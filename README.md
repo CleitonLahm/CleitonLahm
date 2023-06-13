@@ -20,7 +20,7 @@
 <img align="center" alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
 <img align="center" alt="less" src="https://img.shields.io/badge/Less-1D365D?style=for-the-badge&logo=less&logoColor=white">
 <img align="center" alt="gulp" src="https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white">
-<br>
+<br><br>
 <img align="center" alt="jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 
 </div><br>
