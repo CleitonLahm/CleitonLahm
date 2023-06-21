@@ -1,42 +1,19 @@
-
-### Olá! Eu sou o Cleiton Lahm 👋
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cleiton-jos%C3%A9-lahm/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/clei_lahmm/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cleijllahm@gmail.com)
-
-
+### Olá! Eu sou Cleiton Lahm 👋
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/clei_lahmm/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/cleitonlahm/)
 
 ![Cleiton GitHub stats](https://github-readme-stats.vercel.app/api?username=CleitonLahm&show_icons=true&theme=radical)
 
-### Tecnologias que uso no meu dia
-
-<div style="display: inline_block"><br/>
-<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-<img align="center" alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-<img align="center" alt="less" src="https://img.shields.io/badge/Less-1D365D?style=for-the-badge&logo=less&logoColor=white">
-<img align="center" alt="gulp" src="https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white">
-<img align="center" alt="jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-
-</div><br>
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) [![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)
+[![Sass](https://img.shields.io/badge/sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
+[![Less](https://img.shields.io/badge/less-%231d365d.svg?style=for-the-badge&logo=less&logoColor=white)](http://lesscss.org/)
+[![Gulp](https://img.shields.io/badge/gulp-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)](https://gulpjs.com/)
+[![Grunt](https://img.shields.io/badge/grunt-%23FBA919.svg?style=for-the-badge&logo=grunt&logoColor=white)](https://gruntjs.com/) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+<br>
+# 💫 About Me:
 
 Olá!😊 Me chamo Cleiton Lahm e sou um programador apaixonado pelo desenvolvimento de sistemas e atualmente estou cursando Análise e Desenvolvimento de Sistemas. Além disso, estou aprimorando minhas habilidades em Front-End através de alguns cursos específicos.
-
-Minhas habilidades incluem:
-
-- HTML<br>
-- CSS<br>
-- Sass<br>
-- Bootstrap<br>
-- jQuery<br>
-- React<br>
-- Gulp (automação de tarefas)<br>
-- Git e GitHub<br>
-- Inglês: Intermediário<br>
 
 Busco constantemente atualizar meu conhecimento e acompanhar as tendências mais recentes no campo da programação. Sou apaixonado por resolver problemas complexos e criar soluções inovadoras.<br>
 
@@ -46,5 +23,9 @@ Contate-me para discutirmos como posso agregar valor ao seu negócio através do
 
 Estou ansioso para fazer parte de sua equipe e enfrentar novos desafios emocionantes.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CleitonLahm&hide_progress=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CleitonLahm&layout=compact&langs_count=7&theme=dracula)
 
+---
+[![](https://visitcount.itsvg.in/api?id=CleitonLahm&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
