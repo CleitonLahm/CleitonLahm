@@ -1,6 +1,6 @@
 ### Olá! Eu sou Cleiton Lahm 👋
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seu_perfil_do_instagram/){:target="_blank"} [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu_perfil_do_linkedin/){:target="_blank"}
+<a href="https://www.instagram.com/clei_lahmm/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.linkedin.com/in/cleitonlahm/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 
 
