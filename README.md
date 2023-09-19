@@ -28,7 +28,9 @@ Contate-me para discutirmos como posso agregar valor ao seu negócio através do
 
 Estou ansioso para fazer parte de sua equipe e enfrentar novos desafios emocionantes.
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CleitonLahm&layout=compact&langs_count=7&theme=dracula)
+# 📊 Linguagens Mais Usadas:
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=CleitonLahm&layout=compact&theme=radical)](https://github.com/CleitonLahm)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=CleitonLahm&icon=0&color=0)](https://visitcount.itsvg.in)
