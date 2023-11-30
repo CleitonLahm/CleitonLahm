@@ -93,8 +93,8 @@ Estou ansioso para fazer parte de sua equipe e enfrentar novos desafios emociona
 </div>
 
 <p align="center">
-  ---
-[![](https://visitcount.itsvg.in/api?id=CleitonLahm&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  <img
+    src="https://profile-counter.glitch.me/cleitonlahm/count.svg"
+    alt="Ilustração do número de visitantes no perfil"
+  />
 </p>
