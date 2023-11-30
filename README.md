@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Sou de Santa Catarina, tenho 23 anos e sou quase um <strong>Desenvolvedor Front-End</strong>.
+  Sou de Santa Catarina, tenho 23 anos e sou um <strong>Desenvolvedor Front-End</strong>.
 
 Graduando em Análise e Desenvolvimento de Sistemas na Universidade UNOPAR - Norte do Paraná, e atualmente estou empenhado em aprimorar minhas habilidades como desenvolvedor. Estou cursando o Curso de Desenvolvedor Full-Stack Python na EBAC mas já fiz diversos outros cursos de desenvolvimento front-end em outras plataformas, pode conferir no link do meu Linkedin abaixo. <br>
 
