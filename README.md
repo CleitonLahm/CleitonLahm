@@ -1,26 +1,11 @@
-### Olá! Eu sou Cleiton Lahm 👋
-## 🌐 Socials:
-<a href="https://www.instagram.com/clei_lahmm/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.linkedin.com/in/cleitonlahm/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+## Olá, mundo! Meu nome é <strong>Cleiton</strong>! 👋
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-![Cleiton GitHub stats](https://github-readme-stats.vercel.app/api?username=CleitonLahm&show_icons=true&theme=radical)
+<p align="left"> 
+  Sou de Santa Catarina, tenho 23 anos e sou quase um <strong>Desenvolvedor Front-End</strong>.
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) [![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)
-[![Sass](https://img.shields.io/badge/sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
-![Redux](https://img.shields.io/badge/redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-<br>
-# 💫 About Me:
-
-Olá!😊 Me chamo Cleiton Lahm e sou um programador apaixonado pelo desenvolvimento de sistemas e atualmente estou cursando Análise e Desenvolvimento de Sistemas. Além disso, estou aprimorando minhas habilidades em Front-End através de alguns cursos específicos.
+Graduando em Análise e Desenvolvimento de Sistemas na Universidade UNOPAR - Norte do Paraná, e atualmente estou empenhado em aprimorar minhas habilidades como desenvolvedor. Estou cursando o Curso de Desenvolvedor Full-Stack Python na EBAC mas já fiz diversos outros cursos de desenvolvimento front-end em outras plataformas, pode conferir no link do meu Linkedin abaixo. <br>
 
 Busco constantemente atualizar meu conhecimento e acompanhar as tendências mais recentes no campo da programação. Sou apaixonado por resolver problemas complexos e criar soluções inovadoras.<br>
 
@@ -30,10 +15,86 @@ Contate-me para discutirmos como posso agregar valor ao seu negócio através do
 
 Estou ansioso para fazer parte de sua equipe e enfrentar novos desafios emocionantes.
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=CleitonLahm&layout=compact&theme=radical)](https://github.com/CleitonLahm)
+<h2 align="left">
+ 🦄 Linguagens:
+</h2>
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Stlyed Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 
----
-[![](https://visitcount.itsvg.in/api?id=CleitonLahm&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="left">
+  💌 Sinta-se a vontade para entrar em contato: ⤵️
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<a href="https://www.linkedin.com/in/cleitonlahm/" title="LinkedIn" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+
+<a href="https://wa.me/+5549991712726" title="WhatsApp" target="_blank">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+
+<a href="https://www.instagram.com/clei_lahmm/" title="Instagram" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<br>
+<br>
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=cleitonlahm&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
+        alt="Github stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleitonlahm&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=cleitonlahm&theme=dark&hide_border=false"
+        alt="Github stats"
+      />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<p align="center">
+  <a
+    href="https://github.com/ryo-ma/github-profile-trophy"
+    title="repositório de troféus"
+  >
+    <img
+      width="800"
+      src="https://github-profile-trophy.vercel.app/?username=cleitonlahm&column=8&theme=darkhub&no-frame=true&no-bg=true"
+    />
+  </a>
+</p>
+
+<div align="center">
+  <h3><b>Profile Visitor Count</b></h3>
+</div>
+
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/cleitonlahm/count.svg"
+    alt="Ilustração do número de visitantes no perfil"
+  />
+</p>
